@@ -1,3 +1,2 @@
 # Ecommerce
-
-## Ecommerce project using C# ASP.NET
+Ecommerce project using C# ASP.NET
